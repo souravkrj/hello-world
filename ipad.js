@@ -23,7 +23,7 @@ if (ipad) {
       }
     });
 
-    $(document).bind('touchstart', function (e) {
+    $(docume).bind('touchstart', function (e) {
       window.gameStart = true;
     });
 
